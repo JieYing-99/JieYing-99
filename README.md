@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jie Ying</h1>
 <h3 align="center">A data science student from Malaysia</h3>
 
-<p align="center">🌱 I’m currently learning **Natural Language Processing** and **Image Processing**<p>
+<p align="center">🌱 I’m interested in <b>Natural Language Processing<\b> and <b>Image Processing<\b><p>
 
 <h3 align="center">Languages:</h3>
 
