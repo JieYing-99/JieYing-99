@@ -1,13 +1,19 @@
-<h1 align="center">Hi 👋, I'm Jie Ying</h1>
-<h3 align="center">A data science student from Malaysia</h3>
-<!-- <br>
-<p align="center">🌱 I’m interested in <b>Machine Learning</b>, <b>Data Visualization</b>, <b>Big Data Analytics</b>, <b>Natural Language Processing</b> and <b>Image Processing</b><p> -->
+<p align="center">
+<img src="images/fox-black.gif" alt="" width="50%"/>
 <br>
-<h3 align="center">Languages:</h3>
-<p align="center"><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </a> <a href="https://www.r-project.org/" target="_blank"> <img src="https://www.r-project.org/logo/Rlogo.svg" alt="tensorflow" width="40" height="40"/> </a></p>
 <br>
-<h3 align="center">Tools:</h3>
-<p align="center"> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://bokeh.org/" target="_blank"> <img src="https://static.bokeh.org/branding/logos/bokeh-logo.svg" alt="bokeh" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="http://hbase.apache.org/" target="_blank"> <img src="https://brandeps.com/logo-download/H/HBase-logo-vector-01.svg" alt="hbase" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.tableau.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.uipath.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/uipath-3.svg" alt="uipath" width="40" height="40"/> </a> </p>
-
-
-
+<img src="images/python.svg" alt="python" width="50" height="50"/>
+<img src="images/java.svg" alt="java" width="30" height="50"/>
+<img src="images/scikit-learn.svg" alt="scikit-learn" width="60" height="50"/>
+<img src="images/spark.svg" alt="spark" width="50" height="50"/>
+<img src="images/kafka.svg" alt="kafka" width="70" height="50"/>
+<img src="images/druid.svg" alt="druid" width="75" height="50"/>
+<img src="images/airflow.svg" alt="airflow" width="80" height="55"/>
+<br>
+<img src="images/pl-sql.jpg" alt="pl/sql" width="50" height="50"/>
+<img src="images/mongodb.svg" alt="mongodb" width="80" height="50"/>
+<img src="images/tableau.png" alt="tableau" width="80" height="50"/>
+<img src="images/bokeh.svg" alt="bokeh" width="50" height="70"/>
+<img src="images/plotly-dash.png" alt="plotly" width="90" height="70"/>
+<img src="images/uipath.svg" alt="uipath" width="80" height="70"/>
+</p>
