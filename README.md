@@ -14,5 +14,5 @@
 <img src="images/plotly-dash.png" alt="plotly" width="90" height="70"/>
 <img src="images/uipath.svg" alt="uipath" width="80" height="70"/>
 <br>
-<img src="images/fox-leaves.gif" alt="" width="40%"/>
+<img src="images/cat.gif" alt="" width="50%"/>
 </p>
